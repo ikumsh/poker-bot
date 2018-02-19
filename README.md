@@ -1,9 +1,10 @@
 # BIG BRAIN
 
 For our final project at Makers Academy my team and I decided to make a bot to play Texas Hold 'Em Poker.
+We were new to Java but we decided to dive in anyway.
 We weren't sure what we could complete at first, and eventually we settled on writing a simple 1v1 game in pure Java.
-
 All our code was written in Java, we used Swing for the GUI (Graphical User Interface) and tested using Maven JUnit (with close to 100% test coverage).
+We did not use any API's and wrote BIG BRAIN 100% ourselves :)
 
 
 
